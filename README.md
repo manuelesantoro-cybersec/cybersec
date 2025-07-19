@@ -11,7 +11,7 @@ Welcome to my cybersecurity journey! This repo documents my hands-on learning an
 - `/certs/` – Certificates from LinkedIn Learning, TryHackMe, etc.
 
 ## 🔗 Profiles
-- [TryHackMe](https://tryhackme.com/p/YOURUSERNAME)
-- [LinkedIn](https://linkedin.com/in/YOURUSERNAME)
+- [TryHackMe]([https://tryhackme.com/p/YOURUSERNAME](https://tryhackme.com/p/diabolele))
+- [LinkedIn](https://www.linkedin.com/in/manuelesantoro/)
 
 > Work in progress — follow along as I grow my skills!
