@@ -1,5 +1,5 @@
-Manuele Santoro | Junior SOC Analyst Portfolio
-**Current Focus:** HTB Junior Cybersecurity Analyst Path (40%)
+# Manuele Santoro | Junior SOC Analyst Portfolio
+> **Current Focus:** HTB Junior Cybersecurity Analyst Path (40%)
 
 ## 🛡️ About Me
 Cybersecurity enthusiast and aspiring SOC Analyst.
