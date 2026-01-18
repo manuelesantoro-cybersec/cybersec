@@ -1,5 +1,5 @@
 # Manuele Santoro | Junior SOC Analyst Portfolio
-> **Current Focus:** HTB Junior Cybersecurity Analyst Path (40%)
+> **Current Focus:** HTB Junior Cybersecurity Analyst Path (40%) and certification  [HTB CJCA](https://academy.hackthebox.com/exams/7/)
 
 ## 🛡️ About Me
 Cybersecurity enthusiast and aspiring SOC Analyst.
